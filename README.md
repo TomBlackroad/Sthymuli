@@ -1,2 +1,2 @@
-# sThymuli
-Resources and documentation from the **sThymuli project**
+# sthymuli
+Resources and documentation from the **sthymuli project**
